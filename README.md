@@ -11,7 +11,7 @@ LINE16:login("xxx@gmail.com", "password")
 
 LINE20:("senderemail@gmail.com", "receiveremail@gmail.com",)
 
-3.CHECK YOUR GMAIL YOU WILL GET BS64 STRINGS COPY ALL AND  PASTE IN BASE64.TXT
+3.CHECK YOUR GMAIL YOU WILL GET BS64 STRINGS COPY ALL AND  CREATE NEW TXT FILE  "BASE64.TXT" AND PASTE THERE
 
 4.NOW RUN decodebs64.py 
 
