@@ -1,5 +1,6 @@
 # SK-Shot
 Captures victim screen and send to gmail
+
 USAGE
 1.CHANGE THIS IN YOUR SCRIPT WITH YOUR GMAIL AND PASSWORD 
 LINE16:login("xxx@gmail.com", "password") 
